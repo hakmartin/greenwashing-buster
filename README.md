@@ -15,6 +15,8 @@ The problem of greenwashing is on the rise along with the attention given to the
 Some of it is intentional and some of it not but both types are doing harm to the idea and chances of averting climate crisis.
 Me and my partners in earthnest.info project are helping businesses in line with SDG's to strive and this is one of our activities.
 
+![logo](https://github.com/hakmartin/greenwashing-buster/blob/main/earthnest-SDGs-logo.png)
+
 
 ## Acknowledgments
 
