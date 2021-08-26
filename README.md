@@ -18,5 +18,4 @@ Me and my partners in earthnest.info project are helping businesses in line with
 
 ## Acknowledgments
 
-<!-- This is based on the markdown template for the final project of the Building AI course, 
-created by Reaktor Innovations and University of Helsinki.  -->
+This is based on the markdown template for the final project of the Building AI course, created by Reaktor Innovations and University of Helsinki.
